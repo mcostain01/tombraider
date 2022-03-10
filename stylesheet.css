@@ -1,0 +1,84 @@
+header{
+    background-color: rgb(64, 177, 143);
+    color: ghostwhite;
+    text-align: center;
+    font-size: 60px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: larger;
+  }
+  /*-- just so the nav bar has a fancy hover function--*/
+  li a:hover {
+    background-color: #111;
+  }
+  footer{
+      background-color: darkgreen;
+      font-size: 30px;
+      color: ghostwhite;
+      text-align: center;
+      margin-top: 80px;
+  }
+  
+  .hints{
+    color: ghostwhite;
+    font-size: 60px;
+    background-color: darkgoldenrod;
+  }
+  
+  h2{
+    background-color: darkcyan;
+    text-align: center;
+    color: ghostwhite;
+    margin: 0%;
+  }
+
+  .blog{
+    background-color: darkolivegreen;
+    text-align: center;
+    color: ghostwhite;
+  }
+
+  .subscribe{
+    background-color: maroon;
+    text-align: center;
+    color: ghostwhite;
+  }
+
+  .instructions{
+    background-color: peru;
+  }
+
+  .secrets{
+    background-color: white;
+    font-weight: bold;
+  }
+
+  .levels{
+    font-weight: bold;
+  }
+
+  .enemies{
+    font-weight: bold;
+  }
+
+  footer{
+    margin: 0;
+  }
