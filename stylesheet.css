@@ -3,6 +3,11 @@ header{
     color: ghostwhite;
     text-align: center;
     font-size: 60px;
+    margin: 0%;
+}
+
+body{
+  background-color: rgb(209, 185, 169);
 }
 
 ul {
@@ -34,7 +39,6 @@ ul {
       font-size: 30px;
       color: ghostwhite;
       text-align: center;
-      margin-top: 80px;
   }
   
   .hints{
@@ -57,7 +61,7 @@ ul {
   }
 
   .subscribe{
-    background-color: maroon;
+    background-color: rgb(77, 33, 33);
     text-align: center;
     color: ghostwhite;
   }
@@ -67,7 +71,6 @@ ul {
   }
 
   .secrets{
-    background-color: white;
     font-weight: bold;
   }
 
@@ -79,6 +82,48 @@ ul {
     font-weight: bold;
   }
 
-  footer{
-    margin: 0;
+  .subsy{
+    margin-top: 22%;
   }
+
+  .center {
+    align-items: center;
+justify-content: center;
+}
+
+.o {
+    font-size: 20px;
+    background-color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.subs{
+  border-style: groove;
+  border: 3px;
+}
+
+div.gallery {
+  margin-bottom: 80px;
+  margin: 73px;
+  border: 1px solid rgb(87, 79, 38);
+  float:right;
+  width: 260px;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+.gamecover{
+  float: right;
+  padding-right: 200px;
+  padding-left: 200px;
+}
+
+.blow{
+  float: right;
+  padding-right: 200px;
+  width: 30%;
+  padding-bottom: 150px;
+}
